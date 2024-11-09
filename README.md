@@ -1,14 +1,8 @@
 <h1 align="center"> Hi, I'm Ahmad Raza :wave: </h1>
 
 <div align="center">
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadR-Coder-max&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&hide=issues" />
-</a>
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadR-Coder-max&langs_count=5&hide_title=true&hide_border=true" />
-</a><br>
-  
+  I am a software developer and IT consultant specializing in Ruby on Rails applications.
+  I've been working on Ruby projects for companies in Pakistan and remotely. My core competency is in backend of Ruby on Rails applications.
 </div>
 <!--   
 <p><img src="https://komarev.com/ghpvc/?username=AhmadR-Coder-max&label=Profile%20views&color=0e75b6&style=flat"
